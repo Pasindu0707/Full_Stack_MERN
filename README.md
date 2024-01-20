@@ -23,3 +23,10 @@ Tailwind->
               @tailwind utilities;
 
 npm run dev
+
+
+
+bacnkend -> root folder -> npm init -y
+                            npm i express
+                            npm i nodemon ( to auto restart the server if a change happen)
+                            updated the script of package json and (npm run dev)
