@@ -22,7 +22,7 @@ Tailwind->
               @tailwind components;
               @tailwind utilities;
 
-npm run dev
+npm run dev  (need to be in the client folder(frontend))
 
 
 
@@ -30,3 +30,8 @@ bacnkend -> root folder -> npm init -y
                             npm i express
                             npm i nodemon ( to auto restart the server if a change happen)
                             updated the script of package json and (npm run dev)
+
+npm run dev
+
+
+Database -> Mongo DB
